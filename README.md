@@ -49,6 +49,3 @@ At **[Your Hair Studio Name]**, we specialize in transforming your hair with cre
 
 ## Contributing
 We welcome contributions! If you'd like to help improve this project, please fork the repository, make your changes, and submit a pull request.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
